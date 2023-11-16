@@ -1,0 +1,6 @@
+ 
+ hi this is afarin my first git experience
+ :Wq
+ :wq
+   hi again
+
